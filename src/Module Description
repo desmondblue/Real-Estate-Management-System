@@ -1,0 +1,7 @@
+Module cx_Oracle
+cx_Oracle is a Python extension module that enables access to Oracle Database. Itconforms to the Python database API 2.0 specification with a considerable number of
+additions and a couple of exclusions.
+cx_Oracle 6 has been tested with Python version 2.7, and with versions 3.4 and higher. 
+You can use cx_Oracle with Oracle 11.2, 12.1 and 12.2 client libraries.
+Oracle&#39;s standard client-server version interoperability allows connection to both older
+and newer databases. For example Oracle 12.2 client libraries can connect to Oracle Database 11.2.
